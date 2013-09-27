@@ -5,7 +5,7 @@ Installs lshw, an hardware utility lister
 Requirements
 ------------
 
-Tested on Ubuntu and Fedora. May work in Debian. RHEL/CentOS coming soon.
+Tested on Ubuntu and Fedora. May work in Debian. RHEL/CentOS requires EPEL/Repoforge repo.
 
 Attributes
 ----------
