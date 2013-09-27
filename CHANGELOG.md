@@ -11,7 +11,9 @@ This file is used to list changes made in each version of the lshw cookbook.
 -----
 - [Rilindo Foster] - Removed support for CentOS/RHEL - conflict with chef in EPEL repo.
 
-
+0.1.2
+-----
+- [Rilindo Foster] - Reddded support for CentOS.
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
 

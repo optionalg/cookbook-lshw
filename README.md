@@ -31,6 +31,9 @@ Just include `lshw` in your node's `run_list`:
 }
 ```
 
+For CentOS and RHEL, you will need to include the yum::repoforge and/or yum::epel as well. Note that if you installed
+from Opscode, you may need to exclude chef in repoforge and epel's repo.
+
 Contributing
 ------------
 To contribute:
